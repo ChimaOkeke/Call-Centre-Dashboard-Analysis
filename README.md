@@ -33,5 +33,7 @@ The **Call Center Dashboard** is designed to enable operational transparency and
 **Conclusion:**  
 The **Call Center Dashboard** is a vital analytics tool for managing high-performing customer service operations. With its user-friendly design and robust metric tracking, it empowers contact center teams to deliver efficient, consistent, and high-quality support.
 
+https://app.powerbi.com/onedrive/open?pbi_source=ODSPViewer&driveId=b!BYyZCIuz0Eq75K-BMeGL1P00e5rH1MRLucJ_0oRjfnVb6aq9dM1USYfhBlf0Nt-H&itemId=01VX2M3ODRSLXWYWLWUBC33QWIQPOIXR7O
+
 ![Screenshot 2025-05-17 184536](https://github.com/user-attachments/assets/87791dd3-45cc-45fb-9a21-db9098aecec8)
 
